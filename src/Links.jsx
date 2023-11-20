@@ -11,7 +11,7 @@ import Contact from "./pages/Contact";
 import SingleProduct from "./components/SingleProduct";
 import ProductTaxonomyDisplay from "./pages/ProductTaxonomyDisplay";
 import Article from "./components/Article";
-import ArticleTaxonomy from "./pages/Articletaxonomy";
+import ArticleTaxonomy from "./pages/ArticleTaxonomy";
 
 const Links = () => {
   return (
