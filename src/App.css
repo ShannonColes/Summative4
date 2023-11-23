@@ -33,7 +33,7 @@ body.no-scroll {
 /* NAV BAR / HEADER SECTION ----------------------** */
 
 #topnav {
-  position: absolute;
+  position: fixed;
   width: 100%;
   top: 0;
   background: #211b1b;
@@ -1111,7 +1111,6 @@ body {
   #topnav {
     height: 80px;
     padding: 0rem 4rem;
-    position: absolute;
   }
 
   #logo {
