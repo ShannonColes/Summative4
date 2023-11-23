@@ -172,7 +172,7 @@ body {
   --swiper-theme-color: #faf6f5;
 }
 .hero-section-swiper {
-  height: 180px;
+  height: 280px;
 }
 .swiper-pagination {
   margin-bottom: 1rem;
@@ -823,7 +823,7 @@ body {
   }
 
   .hero-section-swiper {
-    height: 300px;
+    height: 400px;
   }
 
   .header-absolute {
@@ -1466,4 +1466,14 @@ body {
   }
 
   /* END OF MEDIA QUERY 1000px --------------------------------------------------*/
+}
+
+@media screen and (min-width: 1400px) {
+  .hero-section-swiper {
+    height: 700px;
+  }
+
+  .static-hero-section img {
+    height: 700px;
+  }
 }
